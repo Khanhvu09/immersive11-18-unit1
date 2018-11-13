@@ -39,4 +39,21 @@ print 2*2
 print 2%2
 print 2**3
 print "-" * 20
-print "rob"**20+"
+
+name = raw_input("what is your name? ")
+print name
+print  2 == 2
+secret_number = 5
+if (secret_number == 3):
+    print "secret_number is  3"
+else:
+    print "secret_number is not 3."
+
+    game_on = True
+    i = 0:
+    while(game_on):
+        i+= 1
+        if(i == 10):
+            game_on = False
+        else:
+            print "Game on!!"
