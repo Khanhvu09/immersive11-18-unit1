@@ -1,0 +1,92 @@
+    1  /Applications/Utilities/Adobe\ Application\ Manager/UWA/aamlauncher ; exit;
+    2  /Applications/Utilities/Adobe\ Application\ Manager/UWA/Adobe\ Application\ Manager\ \(Updater\) ; exit;
+    3  /Applications/Utilities/Adobe\ Application\ Manager/core/AAMCustomHook ; exit;
+    4  echo "# AtlantaXCoffee" >> README.md
+    5  git init
+    6  git add README.md
+    7  git commit -m "first commit"
+    8  git remote add origin https://github.com/brandonhdez7/AtlantaXCoffee.git
+    9  git push -u origin master
+   10  echo "# AtlantaXCoffee" >> README.md
+   11  git init
+   12  git add README.md
+   13  git commit -m "first commit"
+   14  git remote add origin https://github.com/brandonhdez7/AtlantaXCoffee.git
+   15  git push -u origin master
+   16  echo "# AtlantaXCoffee" >> README.md
+   17  git init
+   18  git add README.md
+   19  git commit -m "first commit"
+   20  git remote add origin https://github.com/brandonhdez7/AtlantaXCoffee.git
+   21  git push -u origin master
+   22  brandonhdez7
+   23  stereonoize1
+   24  echo "# AtlantaXCoffee" >> README.md
+   25  git init
+   26  git add README.md
+   27  git commit -m "first commit"
+   28  git remote add origin https://github.com/brandonhdez7/AtlantaXCoffee.git
+   29  git push -u origin master
+   30  whoami
+   31  cd ~
+   32  pwd
+   33  ls
+   34  cd development
+   35  ls
+   36  ls
+   37  cd cd 11\:18\ Immersive/ls
+   38  mkdir
+   39  mkdir unit1
+   40  mv unit1 unit2
+   41  ls
+   42  ls -la
+   43  cd /etc
+   44  ls
+   45  ls -la
+   46  cd ..
+   47  ls -la
+   48  cd ..
+   49  ls -la
+   50  pwd
+   51  cd developent
+   52  pwd
+   53  ls
+   54  cd users
+   55  ls
+   56  pwd
+   57  cd development
+   58  pwd
+   59  ls
+   60  cd brandonhernandez
+   61  ls
+   62  cd developent
+   63  cd development
+   64  ls
+   65  cd 11\:18\ Immersive/
+   66  ls
+   67  mkdir unit1
+   68  ls
+   69  ls
+   70  touch test.txt
+   71  ls
+   72  sudo su
+   73  whoami
+   74  pwd
+   75  ls
+   76  cd developer
+   77  ls -la
+   78  sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+   79  which zsh
+   80  cd ~/development/11\:18\ Immersive/
+   81  ls
+   82  cd unit
+   83  cdunit1
+   84  cd unit1
+   85  pwd
+   86  ls
+   87  ls -la
+   88  cd ..
+   89  cd uni1
+   90  cd unit1
+   91  git init
+   92  history > history.txt
