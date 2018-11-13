@@ -18,3 +18,25 @@ aList = []
 print type(aList)
 aDictionary ={}
 print type (aDictionary)
+first = "brandon"
+last = "hernandez"
+fullName = first + " " + last
+print  fullName
+
+fourteen = 10 + 4 
+print fourteen
+fourteen = "10" + "4"
+print fourteen 
+
+fourteen = int("10") + 4
+print fourteen
+
+
+print 2+2
+print 2-2
+print 2/2
+print 2*2
+print 2%2
+print 2**3
+print "-" * 20
+print "rob"**20+"
