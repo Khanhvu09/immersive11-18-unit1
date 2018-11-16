@@ -52,3 +52,5 @@ for i in histogram.items():
 total = str(sum(c[1] for c in histogram.items()))
 print 'TOTAL' + (max_word_len - len('TOTAL')) * ' ', total, 'words'
 
+
+
